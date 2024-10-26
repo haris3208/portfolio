@@ -1,7 +1,3 @@
-Great! Here’s a tailored README file for your portfolio based on your skills:
-
----
-
 # Haris' Portfolio
 
 Welcome to my portfolio! I'm Haris, a passionate web developer with expertise in creating dynamic and responsive web applications. My skill set includes a strong foundation in both front-end and back-end technologies, allowing me to deliver comprehensive solutions.
